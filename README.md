@@ -8,6 +8,8 @@ Fes un commit i puja els canvis al repositori remot.
 - GitHub.
 - Markdown.
 
+![Logotip de l'examen](/Users/Administrador/nou_ordinador/examen_practic/imatges)
+
 ## Objectiu de l'examen
 
 Aquest examen serveix per practicar amb Git i Markdown.
