@@ -12,4 +12,4 @@ Markdown.
 
 Aquest examen serveix per practicar amb Git i Markdown.
 
-(Aquest és el meu repositori d'examen.)[https://github.com/ivan-esliceu/examen_practic]
+[Aquest és el meu repositori d'examen.](https://github.com/ivan-esliceu/examen_practic)
