@@ -8,7 +8,7 @@ Fes un commit i puja els canvis al repositori remot.
 - GitHub.
 - Markdown.
 
-![Logotip de l'examen](/c/Users/Administrador/nou_ordinador/examen_practic/imatges/logo.png)
+![Logotip de l'examen](/imatges/logo.png)
 
 ## Objectiu de l'examen
 
